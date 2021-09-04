@@ -1,3 +1,10 @@
+## Sai Edupulapati's First CS193 Homework
+Some things I like about CS193
+- Course is taught by current CS/DS students, so they can tailor it to what we actually need vs what we don't need.
+- Good for beginners like myself to understand the tools and best practices that are being used in the industry today.
+- Instructors won't penalize for this late HW :')
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
